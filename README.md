@@ -1,3 +1,3 @@
 # zadaniePiotrek
 
-# zadanieSZUUBI
+# zadanieHubi
